@@ -4,7 +4,12 @@ Commit_2
 
 Commit_3
 
+<<<<<<< HEAD
 
 Commit_4
 
 Commit_5
+=======
+Commit_1_Two
+Commit_2_TwoCommit_2_TwoCommit_2_Two
+>>>>>>> Two
